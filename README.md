@@ -2,7 +2,7 @@
 COVID19 Tracker using React JS for tracking live cases for all courtiers.
 
 ## Demo Link
-
+URL: 
 
 
 ## Features
@@ -20,6 +20,9 @@ Required to install and run the software:
 
 ## APIs
 I used API from :- https://disease.sh/
+
+## MAP
+I used Map from https://www.openstreetmap.org/
 
 ## Installing and Running
 
